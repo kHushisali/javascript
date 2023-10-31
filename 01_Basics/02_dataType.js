@@ -13,8 +13,9 @@ let  isloggIn = false
 //string//boolean -> true and false
 //null => standlone value
 //undefined =>
-//symbol =>unique
+//symbol => unique
+
 //object
 
-console.log(type of undefined); //undefined
+console.log(typeof undefined); //undefined
 console.log(typeof null); //object 
